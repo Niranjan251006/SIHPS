@@ -1,7 +1,7 @@
-# Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+//# Smart India Hackathon Workshop
+# Date: 29/05/2025
+## Register Number: 212224040221
+## Name: NIRANJAN S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,40 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+1.Nearest E-Waste Facility Locator: Use Geocoding AI to find nearby e-waste facilities based on the user's current location. Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
 
+2.Virtual Assistant: Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
+
+3.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
+
+4.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+
+5.Real-time Analytics Dashboard: Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
 
 ## Proposed Solution / Architecture Diagram
+![370568948-bf678906-b7db-4efb-a40a-9005992fc91b](https://github.com/user-attachments/assets/806a006f-916f-41bf-88a3-25a917f61e02)
 
 
 ## Use Cases
-
+![370569382-181b8287-0ba6-477e-9798-b244556a5880](https://github.com/user-attachments/assets/d80b321d-695c-4fef-8c4a-da3119d3a078)
 
 ## Technology Stack
 
+React.js
+
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
